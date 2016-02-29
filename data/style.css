@@ -1,3 +1,13 @@
+@font-face {
+	font-family: 'icomoon-free';
+	src:url('fonts/icomoon-freel.eot?-q29doj');
+	src:url('fonts/icomoon-free.eot?#iefix-q29doj') format('embedded-opentype'),
+		url('fonts/icomoon-free.ttf?-q29doj') format('truetype'),
+		url('fonts/icomoon-free.woff?-q29doj') format('woff'),
+		url('fonts/icomoon-free.svg?-q29doj#icomoon-free') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 body {
     font-family: "icomoon-free", "Lucida Console", Terminal, monospace;
     background-color: #FFFFFF;
@@ -16,6 +26,10 @@ div.content h1 {
 }
 div.content h4 {
     font-size: 40px;
+}
+div.content h1,
+div.content h4 {
+    font-weight: normal;
 }
 div.content a {
     color: inherit;
