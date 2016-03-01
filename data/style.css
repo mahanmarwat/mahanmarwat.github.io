@@ -9,7 +9,7 @@
 	font-style: normal;
 }
 body {
-    font-family: "icomoon-free", "Lucida Console", Terminal, monospace;
+    font-family: "icomoon-free", monospace, Terminal;
     background-color: #FFFFFF;
     color: #000000;
 }
