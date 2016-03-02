@@ -13,28 +13,18 @@ body {
     background-color: #FFFFFF;
     color: #000000;
 }
-div.content {
+h1, h2, h3, h4 {
+    font-weight: normal;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+.center{
     /* Center the content. */
     position: absolute;
     top: 45%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     text-align: center;
-}
-div.content h1 {
-    font-size: 100px;
-}
-div.content h4 {
-    font-size: 40px;
-}
-div.content h1,
-div.content h4 {
-    font-weight: normal;
-}
-div.content a {
-    color: inherit;
-    text-decoration: none;
-}
-div.content .link {
-    padding: 6px;
 }
