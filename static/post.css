@@ -1,0 +1,11 @@
+div#content {
+    width: 60%;
+    left: 20%;
+}
+div#content p.date,
+div#content p.author {
+    text-align: right;
+}
+div#content div {
+    margin-top: 32px;
+}
