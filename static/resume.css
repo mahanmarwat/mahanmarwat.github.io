@@ -1,5 +1,15 @@
+@font-face {
+	font-family: 'open-sans-light';
+	src:url('fonts/OpenSans-Light.eot?-q29doj');
+	src:url('fonts/OpenSans-Light.eot?#iefix-q29doj') format('embedded-opentype'),
+		url('fonts/OpenSans-Light.ttf?-q29doj') format('truetype'),
+		url('fonts/OpenSans-Light.woff?-q29doj') format('woff'),
+		url('fonts/OpenSans-Light.svg?-q29doj#open-sans-light') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 body {
-    font-family: "open sans light";
+    font-family: "open-sans-light";
 }
 div#content {
     width: 80%;
@@ -7,7 +17,7 @@ div#content {
 }
 div#content h1 {
     font-size: 80px;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 10px;
 }
 hr {
@@ -43,7 +53,7 @@ div#ref p {
 div#content p.first {
     margin-top: 10px;
 }
-div#content {
+div#content p:last-child {
     margin-bottom: 20px;
 }
 div#contact {
@@ -51,10 +61,10 @@ div#contact {
 }
 div#contact h4 {
     display: inline;
+	margin-right: 160px;
 }
 div#contact p.addr {
     display: inline-flex;
-    margin-left: 200px;
 }
 div#contact p.info {
     display: inline-flex;
