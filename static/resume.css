@@ -1,0 +1,63 @@
+body {
+    font-family: "open sans light";
+}
+div#content {
+    width: 80%;
+    left: 10%;
+}
+div#content h1 {
+    font-size: 80px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+hr {
+    border: none;
+    height: 2px;
+    background-color: black;
+}
+div#content h4 {
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 0px
+}
+div#content p {
+    font-size: 20px;
+    margin-left: 40px;
+}
+div#content p.title {
+    margin-bottom: 0px;
+    font-size: 28px;
+}
+div#content p.summery {
+    margin-top: 2px;
+    margin-bottom: 0px;
+}
+div#content p.desc {
+    margin-top: 8px;
+}
+div#skills p,
+div#ref p {
+    margin-bottom: 0px;
+    margin-top: 6px;
+}
+div#content p.first {
+    margin-top: 10px;
+}
+div#content {
+    margin-bottom: 20px;
+}
+div#contact {
+    margin-top: 30px;
+}
+div#contact h4 {
+    display: inline;
+}
+div#contact p.addr {
+    display: inline-flex;
+    margin-left: 200px;
+}
+div#contact p.info {
+    display: inline-flex;
+    text-align: right;
+    float: right;
+}
