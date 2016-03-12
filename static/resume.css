@@ -46,7 +46,8 @@ div#content p.desc {
     margin-top: 8px;
 }
 div#skills p,
-div#ref p {
+div#ref p,
+div#info p {
     margin-bottom: 0px;
     margin-top: 6px;
 }
