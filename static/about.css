@@ -1,7 +1,12 @@
+body {
+    background-color: #8BC34A;
+}
 div#content {
+    border: 1px solid #d2d2d2;
+    font-family: 'Rajdhani', sans-serif;
     top: 20%;
     left: 25%;
-    height: 40%;
-    width: 50%;
-    text-align: center;
+    width: 30%;
+    padding: 12px;
+    /* text-align: center; */
 }
