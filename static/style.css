@@ -1,15 +1,4 @@
-@font-face {
-	font-family: 'icomoon-free';
-	src:url('fonts/IcoMoon-Free.eot?-q29doj');
-	src:url('fonts/IcoMoon-Free.eot?#iefix-q29doj') format('embedded-opentype'),
-		url('fonts/IcoMoon-Free.ttf?-q29doj') format('truetype'),
-		url('fonts/IcoMoon-Free.woff?-q29doj') format('woff'),
-		url('fonts/IcoMoon-Free.svg?-q29doj#icomoon-free') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
 body {
-    font-family: "icomoon-free", monospace, Terminal;
     background-color: #FFFFFF;
     color: #000000;
 }

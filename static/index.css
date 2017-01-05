@@ -5,6 +5,7 @@ div#content {
     text-align: center;
 }
 div#content h1 {
+    font-family: 'Rajdhani', sans-serif;
     font-size: 100px;
 }
 div#content h4 {
