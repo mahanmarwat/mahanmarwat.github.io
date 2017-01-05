@@ -1,4 +1,9 @@
+body {
+    background-color: #009688;
+}
 div#content {
+    border: 1px solid #d2d2d2;
+    font-family: 'Rajdhani', sans-serif;
     width: 60%;
     left: 20%;
 }
