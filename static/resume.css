@@ -19,7 +19,7 @@ div#content h1 {
 hr {
     border: none;
     height: 1px;
-    background-color: black;
+    background-color: #dedede;
 }
 div#content h4 {
     font-size: 40px;
