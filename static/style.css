@@ -1,6 +1,7 @@
 body {
-	background-color: #4CAF50;
 	color: #dedede;
+	background-color: #4CAF50;
+	font-family: 'Rajdhani', sans-serif;
 }
 h1, h2, h3, h4 {
     font-weight: normal;
